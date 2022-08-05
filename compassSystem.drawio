@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T12:25:07.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="NhgijdGtliugcRIu2HNE" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T12:25:27.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="W9qYKh7NvpBe-ykNJzDG" version="20.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1385" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
             <mxPoint x="1307.58" y="-804.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wZddlOsyN2LUeJkW2pRp-5" value="pusula1" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="wZddlOsyN2LUeJkW2pRp-5" value="pusula1.py" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1247.58" y="-870" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wZddlOsyN2LUeJkW2pRp-19" value="Classes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -114,7 +114,7 @@
             <mxPoint x="980.0000000000001" y="-1064.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rMCXrDLgHgrbG4AjGL6f-3" value="pusula2" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="rMCXrDLgHgrbG4AjGL6f-3" value="pusula2.py" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="920.0000000000001" y="-1130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rMCXrDLgHgrbG4AjGL6f-4" value="Functions" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -134,7 +134,7 @@
             <mxPoint x="1190" y="-1064.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rMCXrDLgHgrbG4AjGL6f-11" value="pusula3" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="rMCXrDLgHgrbG4AjGL6f-11" value="pusula3.py" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1130" y="-1130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rMCXrDLgHgrbG4AjGL6f-12" value="Functions" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
