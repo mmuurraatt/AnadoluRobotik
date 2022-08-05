@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T12:11:11.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_qkzM6XDsv3Fqb0eNUam" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T12:17:25.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="j7G4HN3A0g9yRXUS1HYU" version="20.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="919" dy="1575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="987" dy="1605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -174,6 +174,9 @@
         </mxCell>
         <mxCell id="rMCXrDLgHgrbG4AjGL6f-32" value="&lt;font size=&quot;3&quot;&gt;CALL pusula1.direction_of_B&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="164.71000000000004" y="-750" width="310.58" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="voChBqruQPlG8ZOvr0XH-0" value="&lt;font size=&quot;3&quot;&gt;CALL pusula2.degree()&amp;nbsp;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="827" y="-480" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
