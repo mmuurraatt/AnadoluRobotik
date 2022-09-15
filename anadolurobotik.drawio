@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T13:51:50.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.1" etag="3xsW0Avmx1ILW3osOv0d" type="github"><diagram id="HLFMlB3nNc8Dz9PaC9jF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-15T14:06:48.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="blYY4RdAHO0oGIpFxPt7" version="20.3.1" type="github">
+  <diagram id="HLFMlB3nNc8Dz9PaC9jF" name="Sayfa -1">
+    <mxGraphModel dx="1230" dy="214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.531;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;endArrow=baseDash;endFill=0;" edge="1" parent="1" source="TOt99uD3MpQIhQpLhFX5-1" target="TOt99uD3MpQIhQpLhFX5-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="170" />
+              <mxPoint x="119" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;endArrow=baseDash;endFill=0;" edge="1" parent="1" source="TOt99uD3MpQIhQpLhFX5-1" target="TOt99uD3MpQIhQpLhFX5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;endArrow=baseDash;endFill=0;" edge="1" parent="1" source="TOt99uD3MpQIhQpLhFX5-1" target="TOt99uD3MpQIhQpLhFX5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;endArrow=baseDash;endFill=0;" edge="1" parent="1" source="TOt99uD3MpQIhQpLhFX5-1" target="TOt99uD3MpQIhQpLhFX5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;endArrow=baseDash;endFill=0;" edge="1" parent="1" source="TOt99uD3MpQIhQpLhFX5-1" target="TOt99uD3MpQIhQpLhFX5-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-1" value="&lt;b&gt;Chief Executive of Company&lt;/b&gt;&lt;br&gt;&lt;br&gt;A. MUSAB YILDIZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-2" value="&lt;b&gt;Marketing &amp;amp; Sale&lt;/b&gt;&lt;br&gt;&lt;br&gt;ABDÜLBAKİ KOÇER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-5" value="&lt;b&gt;Financial &amp;amp; Management Service&lt;/b&gt;&lt;br&gt;&lt;br&gt;FEYZİ GÜNEŞ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-6" value="&lt;b&gt;Production&lt;/b&gt;&lt;br&gt;&lt;br&gt;A. MUSAB YILDIZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="200" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;endArrow=baseDash;endFill=0;" edge="1" parent="1" source="TOt99uD3MpQIhQpLhFX5-8" target="TOt99uD3MpQIhQpLhFX5-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="230" />
+              <mxPoint x="500" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;endArrow=baseDash;endFill=0;" edge="1" parent="1" source="TOt99uD3MpQIhQpLhFX5-8" target="TOt99uD3MpQIhQpLhFX5-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="230" />
+              <mxPoint x="500" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-8" value="&lt;b&gt;Design &amp;amp; Software&lt;/b&gt;&lt;br&gt;&lt;br&gt;FURKAN DURSUN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="200" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-16" value="&lt;b&gt;Quality Control&lt;/b&gt;&lt;br&gt;&lt;br&gt;FURKAN DURSUN&lt;br&gt;ABDÜLBAKİ KOÇER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-18" value="&lt;b&gt;Design&lt;/b&gt;&lt;br&gt;&lt;br&gt;A. MUSAB YILDIZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-20" value="&lt;b&gt;Software&lt;/b&gt;&lt;br&gt;&lt;br&gt;FURKAN DURSUN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="370" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
