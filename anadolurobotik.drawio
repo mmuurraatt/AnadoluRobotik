@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T14:14:32.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="1uI925cS5fLWsYEqEYrm" version="20.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T14:21:56.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="mo6kEF1V5XKtD6InTr1V" version="20.3.1" type="github">
   <diagram id="HLFMlB3nNc8Dz9PaC9jF" name="Sayfa -1">
-    <mxGraphModel dx="755" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1435" dy="250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,6 +44,12 @@
         </mxCell>
         <mxCell id="TOt99uD3MpQIhQpLhFX5-5" value="&lt;b&gt;Financial &amp;amp; Management Service&lt;/b&gt;&lt;br&gt;&lt;br&gt;FEYZİ GÜNEŞ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;endArrow=baseDash;endFill=0;" edge="1" parent="1" source="TOt99uD3MpQIhQpLhFX5-6" target="TOt99uD3MpQIhQpLhFX5-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;endArrow=baseDash;endFill=0;" edge="1" parent="1" source="TOt99uD3MpQIhQpLhFX5-6" target="TOt99uD3MpQIhQpLhFX5-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TOt99uD3MpQIhQpLhFX5-6" value="&lt;b&gt;Production&lt;/b&gt;&lt;br&gt;&lt;br&gt;A. MUSAB YILDIZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="110" height="60" as="geometry" />
@@ -98,6 +104,40 @@
               <mxPoint x="220" y="400" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=baseDash;endFill=0;" edge="1" parent="1" source="TOt99uD3MpQIhQpLhFX5-30" target="TOt99uD3MpQIhQpLhFX5-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-30" value="&lt;b&gt;Circuit Board Production&lt;/b&gt;&lt;br&gt;&lt;br&gt;M.YAHYA KOCA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;endArrow=baseDash;endFill=0;" edge="1" parent="1" source="TOt99uD3MpQIhQpLhFX5-31" target="TOt99uD3MpQIhQpLhFX5-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="510" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-31" value="&lt;b&gt;Mechanic Production&lt;/b&gt;&lt;br&gt;&lt;br&gt;A. MUSAB YILDIZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-34" value="&lt;b&gt;Electronic Mounting&lt;/b&gt;&lt;br&gt;&lt;br&gt;M.YAHYA KOCA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="370" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;endArrow=baseDash;endFill=0;" edge="1" parent="1" target="TOt99uD3MpQIhQpLhFX5-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="510" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-37" value="&lt;b&gt;Machining&lt;/b&gt;&lt;br&gt;&lt;br&gt;A. MUSAB YILDIZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOt99uD3MpQIhQpLhFX5-38" value="&lt;b&gt;Mounting&lt;/b&gt;&lt;br&gt;&lt;br&gt;A. MUSAB YILDIZ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="460" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
